@@ -7,3 +7,5 @@
 - [deviceinfo](https://www.deviceinfo.me/) - deviceinfo
 
 - [kp](file:///etc/hosts) - hosts
+
+- [gist](https://gist.github.com) - gist
