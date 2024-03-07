@@ -4,4 +4,4 @@
 
 - [deviceinfo](https://www.deviceinfo.me/) - deviceinfo
 
-- - [kp](https://kpdl.cc/k.apk) - kinopub
+- [kp](file:///etc/hosts) - hosts
