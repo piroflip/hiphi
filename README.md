@@ -10,3 +10,5 @@
 - [kp](file:///etc/hosts) - hosts
 
 - [gist](https://gist.github.com) - gist
+
+- [yt](https://youtube.com/) - yt
