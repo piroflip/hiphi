@@ -2,3 +2,4 @@
 
 - [rustore](https://apps.rustore.ru/) - rustore
 
+- [deviceinfo] (https://www.deviceinfo.me/) - deviceinfo
