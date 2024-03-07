@@ -12,3 +12,5 @@
 - [gist](https://gist.github.com) - gist
 
 - [yt](https://youtube.com/) - yt
+
+- [kpdl](https://kpdl.cc/k.apk) - kpp
