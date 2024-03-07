@@ -1,4 +1,5 @@
 - [yandex.ru](https://yandex.ru) - yandex.ru
+- [internet](https://ya.ru/internet) - ya inter
 
 - [google.com](https://google.com) - google.com
 
