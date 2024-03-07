@@ -1,5 +1,7 @@
 - [yandex.ru](https://yandex.ru) - yandex.ru
 
+- [google.com](https://google.com) - google.com
+
 - [rustore](https://apps.rustore.ru/) - rustore
 
 - [deviceinfo](https://www.deviceinfo.me/) - deviceinfo
