@@ -13,4 +13,4 @@
 
 - [yt](https://youtube.com/) - yt
 
-- [kpdl](https://kpdl.cc/k.apk) - kpp
+- [dnsleaktest](https://dnsleaktest.com/) - dnt
